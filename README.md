@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chetan Mylapilli</h1>
-<h3 align="center">A passionate frontend developer and a Data Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer at Doublene</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan50&label=Profile%20views&color=0e75b6&style=flat" alt="chetan50" /> </p>
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
-- 📫 How to reach me **mylapilli_chetan@srmap.edu.in**
+- 📫 How to reach me **mylapillichetan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
